@@ -1,0 +1,21 @@
+{
+  "calculator":[
+    {
+      "vatPrice" : "2000",
+      "vatRate" : "10%",
+      "inclusivePrice": "120"
+    }],
+  "add-user":[
+    {
+      "email" : "Sautomation_test@gmail.com",
+      "password" : "Test@709",
+      "org": "software ghar",
+      "orgId": "ap786",
+      "mdmid" : "786ap",
+      "userId" : "Auto709",
+      "lastName": "engineer",
+      "firstName": "automation",
+      "systemRole": "write automation script"
+    }]
+}
+
